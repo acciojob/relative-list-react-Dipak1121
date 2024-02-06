@@ -4,7 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <div id="main">
-        <ol>
+        <ol id='relativeList'>
             {/* {
                 data.map((item, index)=>{
                     return(
